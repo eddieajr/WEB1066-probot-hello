@@ -1,7 +1,6 @@
 sudo: required
 services:
   - docker
-
 env:
   - NPM_TARGET=test
   - NPM_TARGET=lint
